@@ -4,7 +4,7 @@ School Project/Hands On
 
 To build this relational DB:
 - Design the data model given a target knowledge domain (Entity-Relationship Model)
-- Produce a DB model (Built from ER Model + Review of integrity constraints)
+- Produce a DB model (Built from ER Model with integrity constraints)
 - Produce the DB schema (SQl as DB manipulation language)
 - Create the DB (target Neo4j NoSQL DBMS using Cypher language)
 
