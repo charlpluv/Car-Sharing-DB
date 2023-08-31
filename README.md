@@ -1,6 +1,6 @@
 # Car-Sharing-Relational-Database
 
-School Project/Hands On
+School Hands On (SQL & Cypher)
 
 To build this relational DB:
 - Design the data model given a target knowledge domain (Entity-Relationship Model)
